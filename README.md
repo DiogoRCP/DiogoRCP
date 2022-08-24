@@ -44,7 +44,7 @@
 
 ###
 
-![snake gif](https://raw.githubusercontent.com/DiogoRCP/DiogoRCP/output/snake.svg)
+<img href="https://raw.githubusercontent.com/DiogoRCP/DiogoRCP/output/snake.svg" alt="Snake animation" />
 
 ###
 
