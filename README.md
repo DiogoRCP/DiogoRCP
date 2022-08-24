@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-![snake](https://github.com/DiogoRCP/DiogoRCP/output/snake.svg)
+![snake](https://raw.githubusercontent.com/DiogoRCP/DiogoRCP/output/snake.svg)
 
 ###
