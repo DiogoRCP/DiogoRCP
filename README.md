@@ -40,7 +40,7 @@
 
 ###
 
-<img align="right" height="150" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
+<img align="left" height="150" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
 
 ###
 
@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/DiogoRCP/DiogoRCP/output/snake.svg" alt="Snake animation" />
+![snake](https://github.com/DiogoRCP/DiogoRCP/output/snake.svg)
 
 ###
