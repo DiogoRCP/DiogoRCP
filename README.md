@@ -45,19 +45,17 @@
 
 ###
 
-<img align="left" height="150" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
+<img align="right" height="280" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/1185990255" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=1185990255&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
-
-<br clear="both">
 
 ![snake](https://raw.githubusercontent.com/DiogoRCP/DiogoRCP/output/snake.svg)
 
